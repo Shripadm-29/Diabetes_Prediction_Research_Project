@@ -7,5 +7,4 @@ As a high school student I always had a passion and desire to develop an researc
 Thank you so much for visiting my GitHub repository.
 
 Best Regards,
-
 Shripad Mangavalli
